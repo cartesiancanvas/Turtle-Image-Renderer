@@ -28,4 +28,9 @@ draw.shape("arrow")
 draw.color("Red")	
 ```
 
+Here's another example of the output.
+
+![Screenshot 2021-10-11 222144](https://user-images.githubusercontent.com/83541306/136826889-a171c880-0d78-4d09-bea4-a50e159cd5da.png)
+
+
 
